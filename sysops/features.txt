@@ -1,3 +1,0 @@
-Programming tools provided via [asdf](https://asdf-vm.com/guide/getting-started.html):
-     - Node.js
-

@@ -2,9 +2,14 @@
 Terminal Tools:
     Zsh + Oh My Zsh + PowerLevel10k
     Shortcut Tools: make
+    OS Stats: fastfetch, htop
+
+
 Common coding tools:
-    Python (python3.12)
-    Javascript (node)
-    C (gcc)
-    C++ (g++)
-    Rust (rustup/cargo)
+    Python
+    Javascript
+    C
+    C++
+    Rust
+    Go
+    PHP
