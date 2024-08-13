@@ -1,0 +1,10 @@
+08-13-2024
+Terminal Tools:
+    Zsh + Oh My Zsh + PowerLevel10k
+    Shortcut Tools: make
+Common coding tools:
+    Python (python3.12)
+    Javascript (node)
+    C (gcc)
+    C++ (g++)
+    Rust (rustup/cargo)
